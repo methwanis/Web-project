@@ -1,0 +1,7 @@
+#main-wrapper {
+    flex: 1; 
+    padding: 1.2rem;
+    background-color: #ecf0f1; 
+    overflow-y: auto; 
+  }
+  

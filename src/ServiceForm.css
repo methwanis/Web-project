@@ -1,0 +1,114 @@
+
+
+.service-form {
+  max-width: 60rem; 
+  margin: auto;
+  padding: 2rem;
+  background-color: #f9f9f9;
+  border-radius: 1rem; 
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+.service-form h2 {
+  font-size: 2rem; 
+  color: #3498db; 
+  text-align: center;
+  padding: 0.5rem; 
+  background-color: #ecf0f1; 
+  border-radius: 0.5rem;
+  box-shadow: 0 0.25rem 0.25rem rgba(0, 0, 0, 0.1); 
+  margin-bottom: 2rem; 
+  border-bottom: 2px solid #3498db; 
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+}
+
+.form-column {
+  flex: 1;
+  margin-right: 1.5rem;
+}
+
+label {
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  color: #555;
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border: 2px solid #ccc;
+  border-radius: 0.5rem; 
+}
+
+.input-group {
+  position: relative;
+}
+
+.input-group label {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  color: #555;
+  pointer-events: none;
+  transition: transform 0.3s ease-out, color 0.3s ease-out;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+}
+
+.checkbox-container input {
+  margin-right: 0.5rem; 
+  margin: 0;
+}
+
+.checkbox-container label {
+  margin: 0.5rem;
+  justify-self: center;
+  align-self: center;
+  color: #555;
+}
+
+.error {
+  color: #d63031;
+  margin-top: 0.5rem;
+}
+
+button {
+  background-color: #3498db;
+  color: #fff;
+  padding: 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #2186c4;
+}
+
+@media screen and (max-width: 50rem) {
+  .form-row {
+    flex-direction: column;
+  }
+
+  .form-column {
+    margin-right: 0;
+  }
+}

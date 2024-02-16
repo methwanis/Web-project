@@ -1,0 +1,30 @@
+
+
+Logo - https://unsplash.com/photos/black-pug-on-white-textile-qtkpOxCpl0Y
+
+
+Cat1 - https://unsplash.com/photos/black-and-white-cat-lying-on-brown-bamboo-chair-inside-room-gKXKBY-C-Dk
+Cat2- https://unsplash.com/photos/orange-tabby-cat-on-yellow-surface-p6yH8VmGqxo
+Cat3 -https://unsplash.com/photos/brown-tabby-cat-on-wooden-windsor-chair-eMzblc6JmXM
+Cat4 - https://unsplash.com/photos/black-cat-sitting-on-rock-during-day-H-XOmJhbM3s
+Dog1 - https://unsplash.com/photos/chocolate-labrador-retriever-puppy-75JzylAQLyo
+Dog2 -https://unsplash.com/photos/black-and-white-short-coated-dog-N04FIfHhv_k
+Dog3- https://unsplash.com/photos/dogs-face-2l0CWTpcChI
+Dog4 - https://unsplash.com/photos/adult-chocolate-labrador-retriever-v3-zcCWMjgM
+
+
+User1 - https://unsplash.com/photos/man-wearing-henley-top-portrait-7YVZYZeITc8
+User2 - https://unsplash.com/photos/man-wearing-henley-top-portrait-7YVZYZeITc8
+User3 - https://unsplash.com/photos/woman-in-red-cardigan-smiling-mpDV4xaFP8c
+User4 - https://unsplash.com/photos/man-wearing-white-v-neck-shirt-iFgRcqHznqg
+
+
+Carousel3 - https://unsplash.com/photos/silver-tabby-cat-IuJc2qh2TcA
+Carousel2 - https://unsplash.com/photos/brown-french-bulldog-puppy-lying-on-yellow-textile-NE0XGVKTmcA
+Carousel1 - https://unsplash.com/photos/brown-short-coated-dog-in-orange-hoodie-oU6KZTXhuvk
+Carousel4 - https://unsplash.com/photos/orange-and-white-tabby-cat-BHJs5TZ-Nt0
+
+
+Value1 - https://unsplash.com/photos/be-kind-sign-_NcA3WgcFuY
+Value2 - https://unsplash.com/photos/brown-wooden-blocks-on-white-surface-erLrY4aKztg
+Value-3 https://unsplash.com/photos/brown-wooden-blocks-on-white-table-Pd3ml1YRPlg

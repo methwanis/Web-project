@@ -1,0 +1,28 @@
+.button {
+  background: none;
+  border: none;
+  color: #ecf0f1;
+  font-size: 1rem;
+  cursor: pointer;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #2980b9;
+}
+
+.button--link {
+  background: none;
+  border: none;
+  color: #3498db;
+  font-size: 1rem;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.button--link:hover {
+  color: #2980b9;
+}
