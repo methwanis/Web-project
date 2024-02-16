@@ -1,3 +1,3 @@
-# Instructions to run the project
-npm install
-npm run dev
+## Instructions to run the project
+# npm install
+# npm run dev
